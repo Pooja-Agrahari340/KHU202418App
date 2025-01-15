@@ -6,5 +6,6 @@
 . The exploration of machine learning algorithms, including logistic regression, decision trees, random forests, aims to identify the most effective approach for fraud detection.
 
 # Objective
-The main objective of this project is to:
-.Identify fraudulent transactions: Using a machine learning model, we aim to classify whether a transaction is fraudulent or not.
+
+. Using a machine learning model, we aim to classify whether a transaction is fraudulent or not.
+.Use feature analysis:The process typically involves preprocessing and exploring the dataset, which may include features such as transaction amount, location, time, and previous transaction history
