@@ -8,4 +8,5 @@
 # Objective
 
 . Using a machine learning model, we aim to classify whether a transaction is fraudulent or not.
+
 . Use feature analysis:The process typically involves preprocessing and exploring the dataset, which may include features such as transaction amount, location, time, and previous transaction history
