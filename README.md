@@ -12,3 +12,15 @@
 . Use feature analysis:The process typically involves preprocessing and exploring the dataset, which may include features such as transaction amount, location, time, and previous transaction history
 
 Evaluate the model's performance: After splitting the dataset into training and testing sets, various machine learning algorithms such as logistic regression, decision trees, random forests,XGBoost.
+
+Optimize the model: Achieve accuracy greatr than 75% through hypermeter tuning and model validation. 
+
+# Dataset
+. The dataset used in this project is highly imbalanced 
+
+.The dataset contains features related to transaction time, amount,and various anonymized features.
+
+.Class: The target variable, where 1 indicates a fraudulent transaction and 0 indicates a legitimate transaction.
+
+# Prerequisites
+
