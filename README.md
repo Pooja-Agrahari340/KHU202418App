@@ -1,11 +1,11 @@
 # Credit card fraud Detection 
 
-# Problem Statement
+## Problem Statement
 . In this project, we build a machine learning model to predict fraudulent transactions based on various features of financial transactions.  
 . Its primary goal is to develop a predictive model that can proactively distinguish between legitimate and fraudulent credit card transactions.
 . The exploration of machine learning algorithms, including logistic regression, decision trees, random forests, aims to identify the most effective approach for fraud detection.
 
-# Objective
+## Objective
 
 . Using a machine learning model, we aim to classify whether a transaction is fraudulent or not.
 
@@ -15,21 +15,21 @@ Evaluate the model's performance: After splitting the dataset into training and 
 
 Optimize the model: Achieve accuracy greatr than 75% through hypermeter tuning and model validation. 
 
-# Dataset
+## Dataset
 . The dataset used in this project is highly imbalanced 
 
 .The dataset contains features related to transaction time, amount,and various anonymized features.
 
 .Class: The target variable, where 1 indicates a fraudulent transaction and 0 indicates a legitimate transaction.
 
-# Prerequisites
+## Prerequisites
 Before setting up the project, make sure you have the following installed:
-# Tools:
+### Tools:
 . Python 3.7+
 
 .   google colab Used for code execution and visualization.
 
-# Libraries:
+### Libraries:
 You will need the following Python libraries: Pandas,numpy,matplotlib,seaborn,scikit-learn,xgboost and these libraries are lilisted in requirement.txt
 
 Install the required python packages
