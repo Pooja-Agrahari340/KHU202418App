@@ -23,4 +23,18 @@ Optimize the model: Achieve accuracy greatr than 75% through hypermeter tuning a
 .Class: The target variable, where 1 indicates a fraudulent transaction and 0 indicates a legitimate transaction.
 
 # Prerequisites
+Before setting up the project, make sure you have the following installed:
+# Tools:
+. Python 3.7+
+
+.   google colab Used for code execution and visualization.
+
+# Libraries:
+You will need the following Python libraries: Pandas,numpy,matplotlib,seaborn,scikit-learn,xgboost and these libraries are lilisted in requirement.txt
+
+Install the required python packages
+
+.
+
+
 
