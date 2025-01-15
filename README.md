@@ -34,7 +34,22 @@ You will need the following Python libraries: Pandas,numpy,matplotlib,seaborn,sc
 
 Install the required python packages
 
-.
+. pip install -r requirements.txt
 
+. Dataset 
+
+# Results:
+
+ The XGBoost model achieved an accuracy of 99% with a significant improvement in detecting fraudent tranction ,although precision for the minority class was lower.
+
+ # Conclusion
+  The project successfully demonstrated how to handle imbalanced data and build a robust machine learning model for predicting fraudent credit card tranction 
+  
+  .The model performs well but can be improved by handling class imbalance and further tuning.
+
+
+  # Acknowledgment 
+
+  I would like to express my special thanks of  gratitude to upgrade team for providing the dataset and project structure.
 
 
