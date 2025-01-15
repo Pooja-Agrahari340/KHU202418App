@@ -10,3 +10,5 @@
 . Using a machine learning model, we aim to classify whether a transaction is fraudulent or not.
 
 . Use feature analysis:The process typically involves preprocessing and exploring the dataset, which may include features such as transaction amount, location, time, and previous transaction history
+
+Evaluate the model's performance: After splitting the dataset into training and testing sets, various machine learning algorithms such as logistic regression, decision trees, random forests,XGBoost.
