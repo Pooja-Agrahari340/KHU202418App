@@ -7,4 +7,4 @@
 
 # Objective
 The main objective of this project is to:
-.Identify fraudulent transactions:Identify fraudulent transactions: Using a machine learning model, we aim to classify whether a transaction is fraudulent or not.
+.Identify fraudulent transactions: Using a machine learning model, we aim to classify whether a transaction is fraudulent or not.
