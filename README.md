@@ -40,7 +40,7 @@ Install the required python packages
 
 # Results:
 
- The XGBoost model achieved an accuracy of 99% with a significant improvement in detecting fraudent tranction ,although precision for the minority class was lower.
+ The XGBoost model achieved an accuracy of 99% with a significant improvement in detecting fraudulent tranction ,although precision for the minority class was lower.
 
  # Conclusion
   The project successfully demonstrated how to handle imbalanced data and build a robust machine learning model for predicting fraudent credit card tranction 
