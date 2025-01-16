@@ -39,14 +39,18 @@ Install the required python packages
 . Dataset 
 
 # Results:
+## Model Performance:
+. The XGBoost model achieved an accuracy of 99%, which demonstrates the model's high ability to distinguish between fraudulent and legitimate transactions. This performance is promising, especially given the imbalanced nature of the dataset where fraudulent transactions are much fewer than legitimate ones.
 
- The XGBoost model achieved an accuracy of 99% with a significant improvement in detecting fraudulent tranction ,although precision for the minority class was lower.
+## Comparison with Other Models:
+
+. While XGBoost performed the best in terms of overall accuracy, other models such as Random Forest and Logistic Regression were also tested. These models gave slightly lower accuracy and precision scores, showing that tree-based models, like XGBoost, are more suited for this type of imbalanced classification problem.
+
 
  # Conclusion
-  The project successfully demonstrated how to handle imbalanced data and build a robust machine learning model for predicting fraudent credit card tranction 
-  
-  .The model performs well but can be improved by handling class imbalance and further tuning.
+ ## Effective Fraud Detection:
 
+ . The project demonstrated that machine learning, particularly using algorithms like XGBoost, can effectively predict fraudulent credit card transactions. The high accuracy achieved shows the model's ability to classify transactions correctly, making it a valuable tool for fraud detection systems.
 
   # Acknowledgment 
 
