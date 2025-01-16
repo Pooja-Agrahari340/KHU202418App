@@ -42,10 +42,10 @@ Install the required python packages,run:
 download the dataset here,https://drive.google.com/file/d/1oQFOXc_8FghLYz80uuoECtK7wWd5BXt7/view?usp=drive_link
 
 # Results:
-### Model Performance
+## Model Performance
 . The XGBoost model achieved an accuracy of 99%, which demonstrates the model's high ability to distinguish between fraudulent and legitimate transactions. This performance is promising, especially given the imbalanced nature of the dataset where fraudulent transactions are much fewer than legitimate ones.
 
-### Comparison with Other Models
+## Comparison with Other Models
 
 . While XGBoost performed the best in terms of overall accuracy, other models such as Random Forest and Logistic Regression were also tested. These models gave slightly lower accuracy and precision scores, showing that tree-based models, like XGBoost, are more suited for this type of imbalanced classification problem.
 
