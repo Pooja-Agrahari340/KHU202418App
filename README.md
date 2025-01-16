@@ -44,17 +44,21 @@ download the dataset here,https://drive.google.com/file/d/1oQFOXc_8FghLYz80uuoEC
 
 # Results:
 ## Model Performance
-. The XGBoost model achieved an accuracy of 99%, which demonstrates the model's high ability to distinguish between fraudulent and legitimate transactions. This performance is promising, especially given the imbalanced nature of the dataset where fraudulent transactions are much fewer than legitimate ones.
+. The Random Forest model achieved an accuracy of 95%, which demonstrates the model's ability to distinguish between fraudulent and legitimate transactions. Despite the imbalanced nature of the dataset, where fraudulent transactions are fewer than legitimate ones, the model performed effectively in identifying fraudulent transactions.
 
 ## Comparison with Other Models
 
-. While XGBoost performed the best in terms of overall accuracy, other models such as Random Forest and Logistic Regression were also tested. These models gave slightly lower accuracy and precision scores, showing that tree-based models, like XGBoost, are more suited for this type of imbalanced classification problem.
+. While the Random Forest model performed the best in terms of overall accuracy and precision, other models such as Logistic Regression and Decision Trees were also tested.
+
+.The Random Forest model achieved the highest accuracy, demonstrating that ensemble methods like Random Forest are better suited for handling imbalanced datasets.
+
+.The Logistic Regression and Decision Trees models gave slightly lower accuracy and precision scores compared to Random Forest, but still provided valuable insights into the performance of simpler classifiers on the fraud detection task.
 
 
  # Conclusion:
  ## Effective Fraud Detection
 
- . The project demonstrated that machine learning, particularly using algorithms like XGBoost, can effectively predict fraudulent credit card transactions. The high accuracy achieved shows the model's ability to classify transactions correctly, making it a valuable tool for fraud detection systems.
+ . The project demonstrated that machine learning models, particularly Random Forest, can effectively predict fraudulent credit card transactions. The high accuracy achieved shows the model's ability to classify transactions correctly, making it a valuable tool for fraud detection systems.
 
  ## Future Work
 .  Although the model performs well, it can be improved further by addressing class imbalance and exploring advanced techniques such as ensemble learning or deep learning for fraud detection.
