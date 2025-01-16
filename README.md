@@ -1,4 +1,4 @@
-# Credit card fraud Detection 
+# Credit-Card-Fraud-Detection
 
 ## Problem Statement:
 . In this project, we build a machine learning model to predict fraudulent transactions based on various features of financial transactions.  
