@@ -11,9 +11,9 @@
 
 . Use feature analysis:The process typically involves preprocessing and exploring the dataset, which may include features such as transaction amount, location, time, and previous transaction history
 
-Evaluate the model's performance: After splitting the dataset into training and testing sets, various machine learning algorithms such as logistic regression, decision trees, random forests,XGBoost.
+. Evaluate the model's performance: After splitting the dataset into training and testing sets, various machine learning algorithms such as logistic regression, decision trees, random forests,XGBoost.
 
-Optimize the model: Achieve accuracy greatr than 75% through hypermeter tuning and model validation. 
+. Optimize the model: Achieve accuracy greatr than 75% through hypermeter tuning and model validation. 
 
 ## Dataset:
 . The dataset used in this project is highly imbalanced 
@@ -27,7 +27,9 @@ Before setting up the project, make sure you have the following installed:
 ### Tools
 . Python 3.7+
 
-.   google colab Used for code execution and visualization.
+. google colab Used for code execution and visualization.
+
+. Reguired python packeges listed in requirement.txt
 
 ### Libraries
 You will need the following Python libraries: Pandas,numpy,matplotlib,seaborn,scikit-learn,xgboost and these libraries are lilisted in requirement.txt
