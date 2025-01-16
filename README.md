@@ -35,9 +35,7 @@ Before setting up the project, make sure you have the following installed:
 You will need the following Python libraries: 'Pandas','numpy','matplotlib','seaborn','scikit-learn','xgboost' and these libraries are listed in requirement.txt
 
 Install the required python packages,run:
-```bash
 . pip install -r requirements.txt
-
 . Dataset 
 download the dataset here,https://drive.google.com/file/d/1oQFOXc_8FghLYz80uuoECtK7wWd5BXt7/view?usp=drive_link
 
