@@ -54,6 +54,6 @@ Install the required python packages
 
   # Acknowledgment:
 
-  I would like to express my special thanks of  gratitude to upgrade team for providing the dataset and project structure.
+  I would like to express my special thanks of  gratitude to upgrade team for providing the dataset, project structure and detailed step by step guidance .
 
 
